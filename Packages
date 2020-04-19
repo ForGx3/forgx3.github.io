@@ -6,6 +6,6 @@ Filename: debs/com.shiftcmdk.jbsetup_1.0.2_iphoneos-arm.deb
 Size: 52047
 MD5sum: 1febf6f50066522ff02a89e4916c0824
 Section: Tweaks
-Description: Prosperity
+Description: jbsetup
 Author: ForGx3
-Name: Prosperity
+Name: jbsetup
