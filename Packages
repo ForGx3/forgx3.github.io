@@ -1,12 +1,10 @@
-Package: com.forgx3.prosperitythemea
-Version: 2.7
+Package: com.forgx3.jbsetup
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: ForGx3
-Filename: debs/com.prosperitytheme_2.7.deb
-Size: 48072240
-MD5sum: 9902508d8f9f64559de9bccb0f7520e7
-SHA1: 38ef0ca3b6feb6b79bcbbea0266f4fa0d5381a3a
-SHA256: bc93f6b99094e0395f411edb7246c737bb76c1c58fbb9fe7706661ad86b773eb
+Filename: debs/com.shiftcmdk.jbsetup_1.0.2_iphoneos-arm.deb
+Size: 52047
+MD5sum: 1febf6f50066522ff02a89e4916c0824
 Section: Tweaks
 Description: Prosperity
 Author: ForGx3
